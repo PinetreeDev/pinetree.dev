@@ -1,0 +1,40 @@
+.content {
+
+    width: 50vw;
+    height: 100vh;
+    padding: 0 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    background-color: #80aabd;
+
+    .socialicons {
+
+        margin: 24pt auto;
+        width: 75%;
+        height: 48pt;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        text-align: center;
+
+        .socialicon {
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            margin: 0 24pt;
+
+            img {
+                margin: auto;
+                height: 32pt; 
+            }
+
+        }
+
+    }
+
+}

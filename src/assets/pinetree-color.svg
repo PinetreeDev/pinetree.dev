@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="360" viewBox="0 0 210 360">
+  <defs>
+    <clipPath id="a">
+      <polygon points="185 240 190 240 165 180 170 180 145 120 150 120 125 60 130 60 105 0 80 60 85 60 60 120 65 120 40 180 45 180 20 240 25 240 0 300 5 300 25 300 50 300 80 300 80 360 130 360 130 300 160 300 185 300 205 300 210 300 185 240" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>pinetree-color</title>
+  <g style="isolation: isolate">
+    <g>
+      <g>
+        <rect x="80" y="300" width="50" height="60" fill="#603813"/>
+        <polygon points="105 0 5 300 105 300 205 300 105 0" fill="#009245"/>
+        <polygon points="105 0 80 60 105 60 130 60 105 0" fill="#009245"/>
+        <polygon points="125 60 100 120 125 120 150 120 125 60" fill="#009245"/>
+        <polygon points="85 60 60 120 85 120 110 120 85 60" fill="#009245"/>
+        <polygon points="65 120 40 180 65 180 90 180 65 120" fill="#009245"/>
+        <polygon points="145 120 120 180 145 180 170 180 145 120" fill="#009245"/>
+        <polygon points="45 180 20 240 45 240 70 240 45 180" fill="#009245"/>
+        <polygon points="165 180 140 240 165 240 190 240 165 180" fill="#009245"/>
+        <polygon points="25 240 0 300 25 300 50 300 25 240" fill="#009245"/>
+        <polygon points="185 240 160 300 185 300 210 300 185 240" fill="#009245"/>
+      </g>
+      <g clip-path="url(#a)">
+        <rect x="105" width="105" height="360" opacity="0.3" style="mix-blend-mode: overlay"/>
+      </g>
+    </g>
+  </g>
+</svg>
